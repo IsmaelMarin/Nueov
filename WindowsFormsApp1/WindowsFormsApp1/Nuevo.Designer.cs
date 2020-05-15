@@ -49,6 +49,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Nuevo";
             this.Text = "Nuevo";
+            this.Load += new System.EventHandler(this.Nuevo_Load);
             this.ResumeLayout(false);
 
         }
