@@ -16,5 +16,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void Nuevo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
